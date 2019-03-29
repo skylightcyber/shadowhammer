@@ -1,5 +1,5 @@
 # ShadowHammer
-Files related to our research on ShadowHammer.
+Files related to our research on [ShadowHammer](https://securelist.com/operation-shadowhammer/89992/).
 
 ## list.txt
 The list of MAC addresses targeted by ShadowHammer, in plaintext format. Reversed from Kaspersky's detection tool.
